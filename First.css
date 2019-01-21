@@ -1,0 +1,101 @@
+.top{
+  text-align: right;
+  color: rgb(34, 34, 34);
+}
+
+p{
+  font-size: 13px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 5px;
+  font-family: arial;
+
+}
+
+.top: link {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.g1 {display: inline;color: #0091ea;}
+.o1 {display: inline;color: #f44336;}
+.o2 {display: inline;color: #ffc107;}
+.g2 {display: inline;color: #0091ea;}
+.l {display: inline;color: #4caf50;}
+.e {display: inline;color: #f44336;}
+
+.google{
+text-align: center;
+font-family: Helvetica;
+margin: 88px 0px 30px 0px ;
+}
+
+#google {
+  letter-spacing: -12px;
+  font-size: 85px;
+  font-weight: 600;
+}
+
+.click {
+  background-color: rgb(241, 243, 244);
+  width: 558px;
+  height: 42px;
+  margin : 2px auto;
+  border: 1px solid rgb(241, 243, 244);
+  border-radius: 21px;
+}
+
+input {
+font-family: arial;
+color: rgb(128,134,139);
+position: absolute;
+width: 488px;
+height: 42px;
+font-weight: 400;
+border: none;
+background-color: transparent;
+cursor: text;
+margin : 1px auto;
+font-size: 14px;
+padding: 0px 20px;
+text-align: initial;
+display: inline-block;
+white-space: nowrap;
+display: block;
+}
+
+.voice {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  left: 516px;
+}
+
+#voice {
+  padding: 11px;
+  width: 14px;
+  height: 20px;
+}
+
+.click:hover{
+background-color: rgb(230, 232, 233);
+}
+
+.grid {
+  margin: 50px 320px 0px 320px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#img {
+  border: 1px rgb(230, 232, 233) solid;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+  height: 120px;
+  width: 175px;
+}
+
+.box1 {
+  background-color: rgb(230, 232, 233) ;
+}
